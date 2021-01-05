@@ -1,0 +1,18 @@
+deb http://deb.debian.org/debian buster main contrib non-free
+deb-src http://deb.debian.org/debian buster main contrib non-free
+
+deb http://deb.debian.org/debian-security/ buster/updates main contrib non-free
+deb-src http://deb.debian.org/debian-security/ buster/updates main contrib non-free
+
+deb http://deb.debian.org/debian buster-updates main contrib non-free
+deb-src http://deb.debian.org/debian buster-updates main contrib non-free
+
+# proposed-updates : uncomment to enable the proposed-update repository
+
+#deb http://ftp.us.debian.org/debian buster-proposed-updates main contrib non-free
+#deb-src http://ftp.us.debian.org/debian buster-proposed-updates main contrib non-free
+
+#backports : uncomment to enable backport repository
+
+#deb http://deb.debian.org/debian buster-backports main contrib non-free
+#deb-src http://deb.debian.org/debian buster-backports main contrib non-free
