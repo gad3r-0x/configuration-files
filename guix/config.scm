@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ;; This is an operating system configuration generated
 ;; by the graphical installer.
 
@@ -45,6 +44,3 @@
                      'ext4))
              (type "ext4"))
            %base-file-systems)))
-=======
->>>>>>> 0d529239a7066973c36e8ac130dc015a0bb8bb79
-
