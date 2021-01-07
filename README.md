@@ -11,3 +11,7 @@ This repository contain the configuration files for some linux disto
 4. ubuntu
 
 5. kali linux
+
+#  LICENSE
+GPLV3
+
