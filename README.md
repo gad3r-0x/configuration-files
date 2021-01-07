@@ -9,3 +9,5 @@ This repository contain the configuration files for some linux disto
 3. debian
 
 4. ubuntu
+
+5. kali linux
