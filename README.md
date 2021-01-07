@@ -1,4 +1,4 @@
-# configuration-files
+### configuration-files
 
 This repository contain the configuration files for some linux disto
 
@@ -12,6 +12,6 @@ This repository contain the configuration files for some linux disto
 
 5. kali linux
 
-#  LICENSE
+###  LICENSE
 GPLV3
 
