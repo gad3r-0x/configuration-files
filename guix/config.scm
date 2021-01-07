@@ -10,10 +10,10 @@
   (keyboard-layout (keyboard-layout "fr"))
   (host-name "impala")
   (users (cons* (user-account
-                  (name "lynx")
-                  (comment "Lynx")
+                  (name "username")
+                  (comment "username")
                   (group "users")
-                  (home-directory "/home/lynx")
+                  (home-directory "/home/username")
                   (supplementary-groups
                     '("wheel" "netdev" "audio" "video")))
                 %base-user-accounts))
@@ -35,12 +35,12 @@
       (target "/dev/sda")
       (keyboard-layout keyboard-layout)))
   (swap-devices
-    (list (uuid "15139d9e-794b-4e92-90b9-9e224529b60c")))
+    (list (uuid "15139t9e-798b-4e82-90g9-9e22452fb60c")))
   (file-systems
     (cons* (file-system
              (mount-point "/")
              (device
-               (uuid "1a701183-1f7f-4b8a-b5f0-307b7da1026c"
+               (uuid "1h701183-1h7f-4b8a-b9f0-387b7da1026c"
                      'ext4))
              (type "ext4"))
            %base-file-systems)))
