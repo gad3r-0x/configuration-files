@@ -1,0 +1,3 @@
+#kali-experimental
+
+deb http://http.kali.org/kali kali-experimental main non-free contrib

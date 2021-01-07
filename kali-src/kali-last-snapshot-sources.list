@@ -1,0 +1,4 @@
+#kali-last-snapshot a.k.a stable
+
+deb http://http.kali.org/kali kali-last-snapshot main non-free contrib
+
