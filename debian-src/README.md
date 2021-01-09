@@ -1,7 +1,7 @@
 # deb-src
 debian Buster sources with free softwares:
 
-```
+```bash
 deb http://deb.debian.org/debian buster main
 deb-src http://deb.debian.org/debian buster main
 
@@ -26,7 +26,7 @@ deb-src http://deb.debian.org/debian buster-updates main
 
 debian Buster sources with non-free softwares:
 
-```
+```bash
 deb http://deb.debian.org/debian buster main contrib non-free
 deb-src http://deb.debian.org/debian buster main contrib non-free
 
@@ -49,7 +49,7 @@ deb-src http://deb.debian.org/debian buster-updates main contrib non-free
 
 debian testing with free softwares:
 
-```
+```bash
 deb http://deb.debian.org/debian/ testing main 
 deb-src http://deb.debian.org/debian/ testing main 
 
@@ -63,7 +63,7 @@ deb-src http://deb.debian.org/debian-security testing-security main
 debian testing with non-free softwares:
 
 
-```
+```bash
 deb http://deb.debian.org/debian/ testing main cntrib non-free
 deb-src http://deb.debian.org/debian/ testing main cntrib non-free
 
