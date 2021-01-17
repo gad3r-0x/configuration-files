@@ -12,6 +12,7 @@ This repository contain the configuration files for some linux disto
 
 5. kali linux
 
+6. linux-mint
 ###  LICENSE
 GPLV3
 
