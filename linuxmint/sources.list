@@ -1,4 +1,4 @@
-deb http://mirrors.epst-tlemcen.dz/mint ulyssa main upstream import backport 
+deb http://mirrors.evowise.com/linuxmint/packages ulyssa main upstream import backport 
 
 deb http://us.archive.ubuntu.com/ubuntu/ focal main restricted universe multiverse
 deb http://us.archive.ubuntu.com/ubuntu/ focal-updates main restricted universe multiverse
