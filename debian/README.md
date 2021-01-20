@@ -1,4 +1,4 @@
-# deb-src
+# debian repositories 
 debian Buster sources with free softwares:
 
 ```bash
